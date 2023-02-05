@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Herkese%20Merhaba%20😇&text2=🌺Ben%20Melisa%20Hoş%20Geldiniz&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Herkese%20Merhaba%20Ben%20Melisa😇&text2=🌺Ben%20Melisa%20Hoş%20Geldiniz&width=1200&height=400)](https://github.com/Akshay090/svg-banners)
 
 🌺2021 yılında İstanbul Okan Üniversitesi Sağlık Kurumları İşletmeciliği Çift Anadal programından Yüksek Onur derecesi ile mezun oldm.Şu an Atatürk Üniversitesi Sağlık Yönetimi bölümünde lisans eğitimimi tamamlıyorum. Aynı zamanda da Anadolu Üniversitesi İşletme Fakültesi İşletme bölümü öğrencisiyim. Aktif olarak Monster Notebook’da Sosyal Medya Moderasyon Uzman Yardımcısı olarak çalışıyorum.
 
