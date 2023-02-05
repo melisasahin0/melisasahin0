@@ -23,4 +23,4 @@
 - Habitat Derneği 2020 - Halen
 (Microsoft ortaklığında yürütülen Geleceğini Tasarla Projesi Eğitmeni) 
 
-[LinkedIn]: https://img.shields.io/badge/LinkedIn.com/melisasahinstyle=for-the-badge&logo=linkedin&logoColor=white
+<img alt="LinkedIn" src="<https://tr.linkedin.com/in/melisasahin/"/>
