@@ -28,7 +28,8 @@
 
 <div align="center"> <p>  
 
-# İLETİŞİM # </p> </div>
+# İLETİŞİM # 
+</p> </div>
 
 
 <a href= "https://tr.linkedin.com/in/melisasahin/" rel="nofollow">
