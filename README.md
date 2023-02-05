@@ -31,17 +31,12 @@
 # İLETİŞİM # 
 </p> </div>
 
-<tr>
+<p style="letter-spacing:20px">
 
-<p style="letter-spacing:5px">
+<a href= "https://tr.linkedin.com/in/melisasahin/" rel="nofollow">
+<img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"> </a> 
 
-<td><a href= "https://tr.linkedin.com/in/melisasahin/" rel="nofollow">
-<img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"> </a> </td>
-
-<td><a href= "https://melisasahin.medium.com/" rel="nofollow">
-<img src= "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" data-canonical-src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="max-width: 100%"> </a></td>
+<a href= "https://melisasahin.medium.com/" rel="nofollow">
+<img src= "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" data-canonical-src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="max-width: 100%"> </a>
 
 </p>
-</tr>
-
-</pre>
