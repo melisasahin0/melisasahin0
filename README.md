@@ -17,8 +17,8 @@
 
 - Türkiye Bilişim Derneği Genç İstanbul Y.K. Başkan Yardımcılığı 2021 - Halen
 
--SayGel - Sağlık Yönetimi Gelişim Programı 2021 - Halen
+- SayGel - Sağlık Yönetimi Gelişim Programı 2021 - Halen
 (Dijital Medya Koordinatörü
 
--Habitat Derneği 2020 - Halen
+- Habitat Derneği 2020 - Halen
 (Microsoft ortaklığında yürütülen Geleceğini Tasarla Projesi Eğitmeni) 
