@@ -32,8 +32,10 @@
 </p> </div>
 
 
+<div align="left"> 
 <a href= "https://tr.linkedin.com/in/melisasahin/" rel="nofollow">
 <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"> </a>
+</div>
 
 
 <div align="right">   
