@@ -8,6 +8,7 @@
 
 🌺Kişisel olarak, yazılım ve grafik tasarım ile ilgileniyorum. Mesleki olarak ise Sağlık Bilişimi ve Teknolojileri, Sağlıkta Yapay Zeka, Klinik Karar Destek Sistemleri, Uzaktan ve Mobil Sağlık Sistemleri, Hastane Bilgi Yönetim Sistemleri, Akılcı İlaç Kullanımı ve Sağlıkta Görüntü İşleme ile ilgileniyorum.
 
+
 🌺Aktif olduğu Sivil Toplum Kuruluşları ve Sosyal Topluluklar;
 - Innovation in Health Community Kurucu Ortağı 2023 - Halen
 
@@ -23,7 +24,11 @@
 - Habitat Derneği 2020 - Halen
 (Microsoft ortaklığında yürütülen Geleceğini Tasarla Projesi Eğitmeni) 
 
+<p>
+
 # İLETİŞİM #
+
+</p>
 
 <a href= "https://tr.linkedin.com/in/melisasahin/" rel="nofollow">
 <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"> </a>
