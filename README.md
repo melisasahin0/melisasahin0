@@ -26,7 +26,7 @@
 
 <p>
 
-# İLETİŞİM #
+# İLETİŞİM # <p style="text-align: center">İLETİŞİM</p>
 
 </p>
 
