@@ -31,7 +31,7 @@
 # İLETİŞİM # 
 </p> </div>
 
-
+<p style="letter-spacing:5px">
 <div align="left"> <p>  
 <p style="letter-spacing:5px">
 
@@ -46,3 +46,4 @@
 
 </p>
 </p> </div>
+</p>
