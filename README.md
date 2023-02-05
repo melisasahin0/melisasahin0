@@ -32,7 +32,7 @@
 </p> </div>
 
 
-<div align="center"> <p>  
+<div align="auto"> <p>  
 <p style="letter-spacing:5px">
 
 <a href= "https://tr.linkedin.com/in/melisasahin/" rel="nofollow">
