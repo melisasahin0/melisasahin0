@@ -24,6 +24,6 @@
 (Microsoft ortaklığında yürütülen Geleceğini Tasarla Projesi Eğitmeni) 
 
 <a href= "https://tr.linkedin.com/in/melisasahin/" rel="nofollow">
-<img src= "https://camo.githubusercontent.com/7e1a1a039c75a7c…d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn"data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+<img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 
 
